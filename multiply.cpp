@@ -8,9 +8,9 @@ int main()
 {
 	int x = 10, y=20;
 
-	int mulply = x*y;
+	int div = x/y;
 
-	cout << mulply;
+	cout << div;
 	
 	return 0;
 }
